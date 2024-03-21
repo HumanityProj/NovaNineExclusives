@@ -1,0 +1,16 @@
+[
+{
+  "modid": "n9_exclusives",
+  "name": "Nova Nine Exclusives",
+  "description": "Just a lil' guy.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://new.gltched.net",
+  "updateUrl": "",
+  "authorList": ["EmeraldGltch, ElliotVamp"],
+  "credits": "Credit to The Humanity Project.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "n9_exclusives:blocks/gaslight_powered"
+    },
+    "facing=east": {
+      "model": "n9_exclusives:blocks/gaslight_powered",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "n9_exclusives:blocks/gaslight_powered",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "n9_exclusives:blocks/gaslight_powered",
+      "y": 270
+    }
+  }
+}

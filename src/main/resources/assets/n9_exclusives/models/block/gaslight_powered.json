@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "n9_exclusives:blocks/gaslight_powered",
+    "up": "n9_exclusives:blocks/gaslight_powered",
+    "north": "n9_exclusives:blocks/gaslight_powered",
+    "east": "n9_exclusives:blocks/gaslight_powered",
+    "south": "n9_exclusives:blocks/gaslight_powered",
+    "west": "n9_exclusives:blocks/gaslight_powered",
+    "particle": "n9_exclusives:blocks/gaslight_powered"
+  },
+  "render_type": "solid"
+}
