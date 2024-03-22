@@ -1,0 +1,83 @@
+{
+	"textures": {
+		"1": "NovaNine Stuff/blade_matrix"
+	},
+	"elements": [
+		{
+			"name": "grip",
+			"from": [7, 0, 7],
+			"to": [9, 7, 9],
+			"color": 0,
+			"faces": {
+				"north": {"uv": [0, 0, 2, 7], "texture": "#missing"},
+				"east": {"uv": [0, 0, 2, 7], "texture": "#missing"},
+				"south": {"uv": [0, 0, 2, 7], "texture": "#missing"},
+				"west": {"uv": [0, 0, 2, 7], "texture": "#missing"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#missing"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "left",
+			"from": [8.5, 5.25, 7],
+			"to": [14.5, 7.25, 9],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 4, 8]},
+			"color": 0,
+			"faces": {
+				"north": {"uv": [0, 0, 2, 6], "rotation": 270, "texture": "#missing"},
+				"east": {"uv": [0, 0, 2, 2], "rotation": 90, "texture": "#missing"},
+				"south": {"uv": [0, 0, 2, 6], "rotation": 90, "texture": "#missing"},
+				"west": {"uv": [0, 0, 2, 2], "rotation": 90, "texture": "#missing"},
+				"up": {"uv": [0, 0, 2, 6], "rotation": 90, "texture": "#missing"},
+				"down": {"uv": [0, 0, 2, 6], "rotation": 90, "texture": "#missing"}
+			}
+		},
+		{
+			"name": "right",
+			"from": [1.5, 5.25, 7],
+			"to": [7.5, 7.25, 9],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 4, 8]},
+			"color": 0,
+			"faces": {
+				"north": {"uv": [0, 0, 2, 6], "rotation": 90, "texture": "#missing"},
+				"east": {"uv": [0, 0, 2, 2], "rotation": 270, "texture": "#missing"},
+				"south": {"uv": [0, 0, 2, 6], "rotation": 270, "texture": "#missing"},
+				"west": {"uv": [0, 0, 2, 2], "rotation": 270, "texture": "#missing"},
+				"up": {"uv": [0, 0, 2, 6], "rotation": 270, "texture": "#missing"},
+				"down": {"uv": [0, 0, 2, 6], "rotation": 270, "texture": "#missing"}
+			}
+		},
+		{
+			"from": [6, 6.5, 7.5],
+			"to": [10, 32, 8.5],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 12.75], "texture": "#1"},
+				"east": {"uv": [4, 0, 4.5, 12.75], "texture": "#1"},
+				"south": {"uv": [2, 0, 4, 12.75], "texture": "#1"},
+				"west": {"uv": [4.5, 0, 5, 12.75], "texture": "#1"},
+				"up": {"uv": [7, 0.5, 5, 0], "texture": "#1"},
+				"down": {"uv": [7, 0.5, 5, 1], "texture": "#missing"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "grip",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "hand_guard",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [1, 2]
+		},
+		{
+			"name": "blade",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [3]
+		}
+	]
+}

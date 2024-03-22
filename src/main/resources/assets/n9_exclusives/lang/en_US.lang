@@ -1,4 +1,7 @@
 item.feces.name=Poop
+item.beta_sword.name=Beta Sword
+
+item.beta_sword.tooltip=idk
 
 tile.gaslight_powered.name=Gaslight
 

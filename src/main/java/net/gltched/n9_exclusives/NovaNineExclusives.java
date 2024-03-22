@@ -1,3 +1,7 @@
+/* PROPERTY OF GLTCHED NETWORK
+    Alteration of any internal files is prohibited.
+ */
+
 package net.gltched.n9_exclusives;
 
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
@@ -14,6 +18,7 @@ import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import net.minecraft.item.ItemFood;
 import net.minecraft.item.ItemStack;
+import net.minecraftforge.common.util.EnumHelper;
 
 @Mod(modid = NovaNineExclusives.MODID, version = NovaNineExclusives.VERSION)
 public class NovaNineExclusives
@@ -22,9 +27,16 @@ public class NovaNineExclusives
     public static final String VERSION = "1.0.0";
 
     ////////////////////////////////
+    ///          WEAPONS         ///
+    ////////////////////////////////
+
+    public static final Item.ToolMaterial betaMaterial = EnumHelper.addToolMaterial("beta_material", 4, 800, 1.0F, 1200.0F, 0);
+
+    ////////////////////////////////
     ///           ITEM           ///
     ////////////////////////////////
     public static Item feces;
+    public static Item beta_sword;
 
     ////////////////////////////////
     ///          BLOCK           ///
@@ -36,11 +48,13 @@ public class NovaNineExclusives
         // Item/Block init and registration
         // Configuration Handler
 
-        feces = new ItemFood(40, 1.0F, true).setUnlocalizedName("feces").setTextureName("n9_exclusives:feces");
-        GameRegistry.registerItem(feces, feces.getUnlocalizedName().substring(5));
+        feces = new ItemFood(40, 1.0F, true).setTextureName("n9_exclusives:poop").setUnlocalizedName("feces");
+        beta_sword = new BetaSword(betaMaterial).setTextureName("n9_exclusives:beta_sword").setCreativeTab(novaNineExclusiveTab).setUnlocalizedName("beta_sword");
+        GameRegistry.registerItem(feces, "feces");
+        GameRegistry.registerItem(beta_sword, "beta_sword");
 
         gaslight = new Gaslight(Material.glass).setBlockName("gaslight_powered").setLightLevel(1.0F).setBlockTextureName("n9_exclusives:gaslight_powered");
-        GameRegistry.registerBlock(gaslight, gaslight.getUnlocalizedName().substring(5));
+        GameRegistry.registerBlock(gaslight, "gaslight");
     }
 
     @EventHandler
