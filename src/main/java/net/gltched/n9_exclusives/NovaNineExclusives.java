@@ -30,7 +30,7 @@ public class NovaNineExclusives
     ///          WEAPONS         ///
     ////////////////////////////////
 
-    public static final Item.ToolMaterial betaMaterial = EnumHelper.addToolMaterial("beta_material", 4, 800, 1.0F, 1200.0F, 0);
+    public static final Item.ToolMaterial betaMaterial = EnumHelper.addToolMaterial("beta_material", 4, 800, 1.0F, 1196.0F, 0);
 
     ////////////////////////////////
     ///           ITEM           ///
@@ -48,10 +48,10 @@ public class NovaNineExclusives
         // Item/Block init and registration
         // Configuration Handler
 
-        feces = new ItemFood(40, 1.0F, true).setUnlocalizedName("feces").setTextureName("n9_exclusives:poop");
-        beta_sword = new BetaSword(betaMaterial).setTextureName("n9_exclusives:beta_sword").setCreativeTab(novaNineExclusiveTab).setUnlocalizedName("beta_sword");
+        feces = new Feces(40, 1.0F, true).setUnlocalizedName("feces");
+        beta_sword = new BetaSword(betaMaterial).setUnlocalizedName("betaSword");
         GameRegistry.registerItem(feces, "feces");
-        GameRegistry.registerItem(beta_sword, "beta_sword");
+        GameRegistry.registerItem(beta_sword, "betaSword");
 
         gaslight = new Gaslight(Material.glass).setBlockName("gaslight_powered").setLightLevel(1.0F).setBlockTextureName("n9_exclusives:gaslight_powered");
         GameRegistry.registerBlock(gaslight, "gaslight");

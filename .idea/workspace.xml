@@ -4,9 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd692a70-8af0-4b4e-ae85-af53f9578d7f" name="Changes" comment="Update Github Actions">
+    <list default="true" id="fd692a70-8af0-4b4e-ae85-af53f9578d7f" name="Changes" comment="Fixed ItemFood implementation on Feces item.">
+      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing-20240321-225926.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/04ba6478-628e-32a2-915d-0b45ca8b366b.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/6ecd1629-dee4-373d-9457-481bd36b0826.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/fe207da4-45aa-3a2a-bf67-72a700290388.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/04ba6478-628e-32a2-915d-0b45ca8b366b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/6ecd1629-dee4-373d-9457-481bd36b0826.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/fe207da4-45aa-3a2a-bf67-72a700290388.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/NovaNineExclusives-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/NovaNineExclusives-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-7.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/DIM-1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/DIM-1/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/DIM1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/DIM1/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/2210beb6-4dc2-38a8-8f45-f0cb49bb6846.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/2210beb6-4dc2-38a8-8f45-f0cb49bb6846.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/27fc360e-fa24-3dff-9bfe-79a065a3b88e.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/27fc360e-fa24-3dff-9bfe-79a065a3b88e.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/37815b4b-a277-3e88-89c9-687629f7c447.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/37815b4b-a277-3e88-89c9-687629f7c447.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/4bf8ac1c-047f-3d7f-9946-705bc571459f.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/4bf8ac1c-047f-3d7f-9946-705bc571459f.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/d566deca-6b21-32cb-af90-4edf09eeac2e.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/d566deca-6b21-32cb-af90-4edf09eeac2e.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/fd2b0ed7-411b-3fc7-aa79-261670dbe34f.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/fd2b0ed7-411b-3fc7-aa79-261670dbe34f.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/stats/2210beb6-4dc2-38a8-8f45-f0cb49bb6846.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/2210beb6-4dc2-38a8-8f45-f0cb49bb6846.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/stats/27fc360e-fa24-3dff-9bfe-79a065a3b88e.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/27fc360e-fa24-3dff-9bfe-79a065a3b88e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/stats/37815b4b-a277-3e88-89c9-687629f7c447.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/37815b4b-a277-3e88-89c9-687629f7c447.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/stats/4bf8ac1c-047f-3d7f-9946-705bc571459f.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/4bf8ac1c-047f-3d7f-9946-705bc571459f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/stats/d566deca-6b21-32cb-af90-4edf09eeac2e.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/d566deca-6b21-32cb-af90-4edf09eeac2e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/stats/fd2b0ed7-411b-3fc7-aa79-261670dbe34f.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/fd2b0ed7-411b-3fc7-aa79-261670dbe34f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/NovaNineExclusives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/NovaNineExclusives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/item/BetaSword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/item/BetaSword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/item/Feces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/item/Feces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/lang/en_US.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/beta_sword.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/betaSword.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/beta_sword.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/betaSword.png.mcmeta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +153,7 @@
       <recent name="net.gltched.n9_exclusives.init" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.forge-1.7.10-10.13.4.1614-1.7.10-src [build]">
+  <component name="RunManager" selected="Gradle.forge-1.7.10-10.13.4.1614-1.7.10-src [runClient]">
     <configuration name="forge-1.7.10-10.13.4.1614-1.7.10-src [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -169,8 +222,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.forge-1.7.10-10.13.4.1614-1.7.10-src [build]" />
         <item itemvalue="Gradle.forge-1.7.10-10.13.4.1614-1.7.10-src [runClient]" />
+        <item itemvalue="Gradle.forge-1.7.10-10.13.4.1614-1.7.10-src [build]" />
         <item itemvalue="Gradle.forge-1.7.10-10.13.4.1614-1.7.10-src [jar]" />
       </list>
     </recent_temporary>
@@ -239,7 +292,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711085472751</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fixed ItemFood implementation on Feces item.">
+      <option name="closed" value="true" />
+      <created>1711085981519</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711085981519</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed ItemFood implementation on Feces item.">
+      <option name="closed" value="true" />
+      <created>1711086011251</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711086011251</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,6 +329,7 @@
     <MESSAGE value="Beta Sword Texture Change" />
     <MESSAGE value="Jar File Addition" />
     <MESSAGE value="Update Github Actions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Github Actions" />
+    <MESSAGE value="Fixed ItemFood implementation on Feces item." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed ItemFood implementation on Feces item." />
   </component>
 </project>

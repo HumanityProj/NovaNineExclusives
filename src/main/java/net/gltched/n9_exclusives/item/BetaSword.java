@@ -2,6 +2,7 @@ package net.gltched.n9_exclusives.item;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
+import net.gltched.n9_exclusives.NovaNineExclusives;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemSword;
@@ -13,6 +14,8 @@ public class BetaSword extends ItemSword {
 
     public BetaSword(ToolMaterial material) {
         super(material);
+        this.setCreativeTab(NovaNineExclusives.novaNineExclusiveTab);
+        this.setTextureName("n9_exclusives:betaSword");
     }
 
     @Override
