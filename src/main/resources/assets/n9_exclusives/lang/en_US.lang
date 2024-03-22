@@ -1,7 +1,9 @@
 item.feces.name=Poop
-item.betaSword.name=Beta Sword
+item.betaSword.name=Matrix Blade
 
-item.betaSword.tooltip=§5idk
+item.betaSword.tooltip0=§5Which §amatrix §5were we working with again?
+item.betaSword.tooltip1=§r
+item.betaSword.tooltip2=§6Beta Testing Weapon
 
 tile.gaslight_powered.name=Gaslight
 

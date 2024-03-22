@@ -22,6 +22,8 @@ public class BetaSword extends ItemSword {
     @SideOnly(Side.CLIENT)
     public void addInformation(ItemStack itemStack, EntityPlayer player, List list, boolean par4) {
         super.addInformation(itemStack, player, list, par4);
-        list.add(StatCollector.translateToLocal(getUnlocalizedName() + ".tooltip"));
+        list.add(StatCollector.translateToLocal(getUnlocalizedName() + ".tooltip0"));
+        list.add(StatCollector.translateToLocal(getUnlocalizedName() + ".tooltip1"));
+        list.add(StatCollector.translateToLocal(getUnlocalizedName() + ".tooltip2"));
     }
 }
