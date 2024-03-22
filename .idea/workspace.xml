@@ -4,56 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd692a70-8af0-4b4e-ae85-af53f9578d7f" name="Changes" comment="Nova Nine Exclusives INIT">
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-20-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-20-2.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-20-3.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-20-4.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-20-5.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-2.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-3.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-4.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-5.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-6.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-7.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing-20240321-201011.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/2210beb6-4dc2-38a8-8f45-f0cb49bb6846.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/25b11e49-a7c5-3d9c-8271-d4f68f211051.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/37815b4b-a277-3e88-89c9-687629f7c447.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/3c098a03-04cc-31fd-856f-be4ccab4daf7.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/446355e4-985a-3d9c-a63c-4d95aa4b0dff.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/e5a660b6-9d51-36ee-858e-f73e02a3f36f.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/ea1dedcc-65ad-3e4c-bece-937c54b0cb65.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/f2ba1573-0c0d-3978-bb86-e2dc9c0eb9a4.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/fd2b0ed7-411b-3fc7-aa79-261670dbe34f.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/2210beb6-4dc2-38a8-8f45-f0cb49bb6846.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/25b11e49-a7c5-3d9c-8271-d4f68f211051.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/37815b4b-a277-3e88-89c9-687629f7c447.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/3c098a03-04cc-31fd-856f-be4ccab4daf7.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/446355e4-985a-3d9c-a63c-4d95aa4b0dff.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/e5a660b6-9d51-36ee-858e-f73e02a3f36f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/ea1dedcc-65ad-3e4c-bece-937c54b0cb65.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/f2ba1573-0c0d-3978-bb86-e2dc9c0eb9a4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/fd2b0ed7-411b-3fc7-aa79-261670dbe34f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/screenshots/2024-03-21_19.17.05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/item/BetaSword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/models/item/beta_blade.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/beta_sword.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/beta_sword.png.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/beta_sword.xcf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/n9_exclusives_logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
+    <list default="true" id="fd692a70-8af0-4b4e-ae85-af53f9578d7f" name="Changes" comment="Beta Sword Additions">
+      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/ac42e7c5-bf90-3ead-ba50-c551df161044.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/e7c5c79a-91ee-3db1-afe8-a6ff4d4f15fa.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/ac42e7c5-bf90-3ead-ba50-c551df161044.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/e7c5c79a-91ee-3db1-afe8-a6ff4d4f15fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/beta_sword_old.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/forge-1.7.10-10.13.4.1614-1.7.10-src.api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/forge-1.7.10-10.13.4.1614-1.7.10-src.api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/forge-1.7.10-10.13.4.1614-1.7.10-src.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/forge-1.7.10-10.13.4.1614-1.7.10-src.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/forge-1.7.10-10.13.4.1614-1.7.10-src.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/forge-1.7.10-10.13.4.1614-1.7.10-src.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-7.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterDir="false" />
@@ -62,69 +32,15 @@
       <change beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/DIM-1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/DIM-1/data/villages.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/DIM1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/DIM1/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/data/Mineshaft.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/data/Mineshaft.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/data/villages.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/03ba29a1-d6bd-32ba-90b2-375e4d65abc9.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/03ba29a1-d6bd-32ba-90b2-375e4d65abc9.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/2654e3c3-150d-3857-a426-0b141796a4e0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/2654e3c3-150d-3857-a426-0b141796a4e0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/5d6f5056-9d82-3950-9ee4-6a4e4ed3cf33.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/5d6f5056-9d82-3950-9ee4-6a4e4ed3cf33.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/b743052f-5855-37e7-a97b-fd551acafef4.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/b743052f-5855-37e7-a97b-fd551acafef4.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/d75ffc85-72b0-3b94-be32-d104d89a3a6a.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/d75ffc85-72b0-3b94-be32-d104d89a3a6a.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.-1.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.-1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.0.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.0.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/session.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/stats/03ba29a1-d6bd-32ba-90b2-375e4d65abc9.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/03ba29a1-d6bd-32ba-90b2-375e4d65abc9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/stats/2654e3c3-150d-3857-a426-0b141796a4e0.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/2654e3c3-150d-3857-a426-0b141796a4e0.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/stats/5d6f5056-9d82-3950-9ee4-6a4e4ed3cf33.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/5d6f5056-9d82-3950-9ee4-6a4e4ed3cf33.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/stats/b743052f-5855-37e7-a97b-fd551acafef4.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/b743052f-5855-37e7-a97b-fd551acafef4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/stats/d75ffc85-72b0-3b94-be32-d104d89a3a6a.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/d75ffc85-72b0-3b94-be32-d104d89a3a6a.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/NovaNineExclusives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/NovaNineExclusives.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/block/UraniumBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/item/UraniumIngot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/lang/en_US.lang" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/azrael_blade1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/azrael_blade2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/azrael_edge1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/azrael_edge2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/azrael_guard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/azrael_handle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/azrael_pommel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/base_ingot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/bronze_alloy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/gold_alloy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/golden_amethyst_necklace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/golden_amethyst_ring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/golden_diamond_necklace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/golden_diamond_ring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/golden_emerald_necklace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/golden_emerald_ring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/golden_obsidian_necklace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/golden_obsidian_ring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/golden_ruby_necklace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/golden_ruby_ring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/humanity_disc_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/iron_alloy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/ruby.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/silver_alloy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/silver_amethyst_necklace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/silver_amethyst_ring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/silver_diamond_necklace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/silver_diamond_ring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/silver_emerald_necklace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/silver_emerald_ring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/silver_ingot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/silver_obsidian_necklace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/silver_obsidian_ring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/silver_ruby_necklace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/silver_ruby_ring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/stainless_steel_alloy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/steel_alloy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/uranium_ingot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/beta_sword.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/beta_sword.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/beta_sword.xcf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -313,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710999152114</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Beta Sword Additions">
+      <option name="closed" value="true" />
+      <created>1711083342342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711083342342</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,6 +254,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Nova Nine Exclusives INIT" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nova Nine Exclusives INIT" />
+    <MESSAGE value="Beta Sword Additions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beta Sword Additions" />
   </component>
 </project>
