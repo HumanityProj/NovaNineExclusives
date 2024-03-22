@@ -48,7 +48,7 @@ public class NovaNineExclusives
         // Item/Block init and registration
         // Configuration Handler
 
-        feces = new ItemFood(40, 1.0F, true).setTextureName("n9_exclusives:poop").setUnlocalizedName("feces");
+        feces = new ItemFood(40, 1.0F, true).setUnlocalizedName("feces").setTextureName("n9_exclusives:poop");
         beta_sword = new BetaSword(betaMaterial).setTextureName("n9_exclusives:beta_sword").setCreativeTab(novaNineExclusiveTab).setUnlocalizedName("beta_sword");
         GameRegistry.registerItem(feces, "feces");
         GameRegistry.registerItem(beta_sword, "beta_sword");
