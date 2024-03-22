@@ -1,9 +1,12 @@
 item.feces.name=Poop
 item.betaSword.name=Matrix Blade
+item.reapersStaff.name=Reapers Staff
 
 item.betaSword.tooltip0=§5Which §amatrix §5were we working with again?
 item.betaSword.tooltip1=§r
 item.betaSword.tooltip2=§6Beta Testing Weapon
+item.reapersStaff.tooltip0=§5Welcome to the underground...
+item.reapersStaff.tooltip1=§cHow was the fall?
 
 tile.gaslight_powered.name=Gaslight
 

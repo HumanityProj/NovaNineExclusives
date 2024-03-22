@@ -16,7 +16,6 @@ import net.minecraft.item.Item;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
-import net.minecraft.item.ItemFood;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.common.util.EnumHelper;
 
@@ -31,12 +30,14 @@ public class NovaNineExclusives
     ////////////////////////////////
 
     public static final Item.ToolMaterial betaMaterial = EnumHelper.addToolMaterial("beta_material", 4, 800, 1.0F, 1196.0F, 0);
+    public static final Item.ToolMaterial reapersMaterial = EnumHelper.addToolMaterial("reapers_material", 2, 1200, 1.3F, 33.2F, 1);
 
     ////////////////////////////////
     ///           ITEM           ///
     ////////////////////////////////
     public static Item feces;
     public static Item beta_sword;
+    public static Item reapers_staff;
 
     ////////////////////////////////
     ///          BLOCK           ///
@@ -50,8 +51,10 @@ public class NovaNineExclusives
 
         feces = new Feces(40, 1.0F, true).setUnlocalizedName("feces");
         beta_sword = new BetaSword(betaMaterial).setUnlocalizedName("betaSword");
+        reapers_staff = new ReapersStaff(reapersMaterial).setUnlocalizedName("reapersStaff");
         GameRegistry.registerItem(feces, "feces");
         GameRegistry.registerItem(beta_sword, "betaSword");
+        GameRegistry.registerItem(reapers_staff, "reapersStaff");
 
         gaslight = new Gaslight(Material.glass).setBlockName("gaslight_powered").setLightLevel(1.0F).setBlockTextureName("n9_exclusives:gaslight_powered");
         GameRegistry.registerBlock(gaslight, "gaslight");
