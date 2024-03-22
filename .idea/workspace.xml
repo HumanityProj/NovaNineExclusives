@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd692a70-8af0-4b4e-ae85-af53f9578d7f" name="Changes" comment="Beta Sword Additions">
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/ac42e7c5-bf90-3ead-ba50-c551df161044.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/e7c5c79a-91ee-3db1-afe8-a6ff4d4f15fa.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/ac42e7c5-bf90-3ead-ba50-c551df161044.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/e7c5c79a-91ee-3db1-afe8-a6ff4d4f15fa.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/beta_sword_old.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-6.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/2024-03-21-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-21-7.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/DIM-1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/DIM-1/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/DIM1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/DIM1/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.-1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.0.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/session.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/beta_sword.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/beta_sword.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/beta_sword.xcf" beforeDir="false" />
-    </list>
+    <list default="true" id="fd692a70-8af0-4b4e-ae85-af53f9578d7f" name="Changes" comment="Beta Sword Texture Change" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +84,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/EmeraldGltch/Downloads/forge-1.7.10-10.13.4.1614-1.7.10-src"
+    "last_opened_file_path": "C:/Users/EmeraldGltch/Downloads/forge-1.7.10-10.13.4.1614-1.7.10-src",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -237,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711083342342</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Beta Sword Texture Change">
+      <option name="closed" value="true" />
+      <created>1711084714655</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711084714655</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,6 +229,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Nova Nine Exclusives INIT" />
     <MESSAGE value="Beta Sword Additions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Beta Sword Additions" />
+    <MESSAGE value="Beta Sword Texture Change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beta Sword Texture Change" />
   </component>
 </project>
