@@ -49,10 +49,8 @@ public class NovaNineExclusives
         // Item/Block init and registration
         // Configuration Handler
 
-        feces = new Feces(40, 1.0F, true).setUnlocalizedName("feces");
         beta_sword = new BetaSword(betaMaterial).setUnlocalizedName("betaSword");
         reapers_staff = new ReapersStaff(reapersMaterial).setUnlocalizedName("reapersStaff");
-        GameRegistry.registerItem(feces, "feces");
         GameRegistry.registerItem(beta_sword, "betaSword");
         GameRegistry.registerItem(reapers_staff, "reapersStaff");
 

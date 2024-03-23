@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd692a70-8af0-4b4e-ae85-af53f9578d7f" name="Changes" comment="Renamed beta_sword.png to betaSword.png">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/gradle.yml" beforeDir="false" />
+    <list default="true" id="fd692a70-8af0-4b4e-ae85-af53f9578d7f" name="Changes" comment="N9 Exclusives Build 1.0.1">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/NovaNineExclusives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/NovaNineExclusives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/item/Feces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/lang/en_US.lang" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,12 +73,12 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "HumanityProj"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HumanityProj&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -116,7 +122,7 @@
       <recent name="net.gltched.n9_exclusives.init" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.forge-1.7.10-10.13.4.1614-1.7.10-src [runClient]">
+  <component name="RunManager" selected="Gradle.forge-1.7.10-10.13.4.1614-1.7.10-src [build]">
     <configuration name="forge-1.7.10-10.13.4.1614-1.7.10-src [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -185,8 +191,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.forge-1.7.10-10.13.4.1614-1.7.10-src [runClient]" />
         <item itemvalue="Gradle.forge-1.7.10-10.13.4.1614-1.7.10-src [build]" />
+        <item itemvalue="Gradle.forge-1.7.10-10.13.4.1614-1.7.10-src [runClient]" />
         <item itemvalue="Gradle.forge-1.7.10-10.13.4.1614-1.7.10-src [jar]" />
       </list>
     </recent_temporary>
@@ -303,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711143826607</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="N9 Exclusives Build 1.0.1">
+      <option name="closed" value="true" />
+      <created>1711157826343</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711157826343</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,6 +355,7 @@
     <MESSAGE value="Changed BetaSword to MatrixBlade and updated tooltip." />
     <MESSAGE value="Added Reaper's Staff" />
     <MESSAGE value="Renamed beta_sword.png to betaSword.png" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed beta_sword.png to betaSword.png" />
+    <MESSAGE value="N9 Exclusives Build 1.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="N9 Exclusives Build 1.0.1" />
   </component>
 </project>
