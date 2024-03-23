@@ -4,43 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd692a70-8af0-4b4e-ae85-af53f9578d7f" name="Changes" comment="Changed BetaSword to MatrixBlade and updated tooltip.">
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-22-5.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-22-6.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/logs/2024-03-22-7.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/1b8221f7-5861-330e-bef0-ac96b785ff27.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/1b8221f7-5861-330e-bef0-ac96b785ff27.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/item/ReapersStaff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/textures/items/reapersStaff.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+    <list default="true" id="fd692a70-8af0-4b4e-ae85-af53f9578d7f" name="Changes" comment="Renamed beta_sword.png to betaSword.png">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/gradle.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/NovaNineExclusives-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/NovaNineExclusives-1.0.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/DIM-1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/DIM-1/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/DIM1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/DIM1/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/905847c0-6737-32d8-85e6-3f64ecd32033.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/playerdata/905847c0-6737-32d8-85e6-3f64ecd32033.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.-1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/region/r.0.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/session.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/Testing/stats/905847c0-6737-32d8-85e6-3f64ecd32033.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Testing/stats/905847c0-6737-32d8-85e6-3f64ecd32033.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/NovaNineExclusives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/gltched/n9_exclusives/NovaNineExclusives.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/n9_exclusives/lang/en_US.lang" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +66,20 @@
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HumanityProj"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="55368091-1c2b-4e5b-8be8-54eb86e9cea4" />
+        <option name="url" value="https://github.com/HumanityProj/NovaNineExclusives.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -306,7 +287,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711115234081</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added Reaper's Staff">
+      <option name="closed" value="true" />
+      <created>1711143760756</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711143760756</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Renamed beta_sword.png to betaSword.png">
+      <option name="closed" value="true" />
+      <created>1711143826607</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711143826607</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -314,7 +311,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -330,6 +339,8 @@
     <MESSAGE value="Fixed ItemFood implementation on Feces item." />
     <MESSAGE value="Changed Beta Sword ID and Tooltip Coloring." />
     <MESSAGE value="Changed BetaSword to MatrixBlade and updated tooltip." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed BetaSword to MatrixBlade and updated tooltip." />
+    <MESSAGE value="Added Reaper's Staff" />
+    <MESSAGE value="Renamed beta_sword.png to betaSword.png" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed beta_sword.png to betaSword.png" />
   </component>
 </project>
