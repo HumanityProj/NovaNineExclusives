@@ -35,8 +35,9 @@ public class NovaNineExclusives
     ////////////////////////////////
     ///           ITEM           ///
     ////////////////////////////////
-    public static Item feces;
     public static Item beta_sword;
+    public static GPGun gp_gun;
+    public static Item galactic_bullet;
     public static Item reapers_staff;
 
     ////////////////////////////////
@@ -50,8 +51,11 @@ public class NovaNineExclusives
         // Configuration Handler
 
         beta_sword = new BetaSword(betaMaterial).setUnlocalizedName("betaSword");
+        gp_gun = new GPGun();
+        galactic_bullet = new GalacticBullet().setUnlocalizedName("galacticBullet");
         reapers_staff = new ReapersStaff(reapersMaterial).setUnlocalizedName("reapersStaff");
         GameRegistry.registerItem(beta_sword, "betaSword");
+        GameRegistry.registerItem(galactic_bullet, "galacticBullet");
         GameRegistry.registerItem(reapers_staff, "reapersStaff");
 
         gaslight = new Gaslight(Material.glass).setBlockName("gaslight_powered").setLightLevel(1.0F).setBlockTextureName("n9_exclusives:gaslight_powered");

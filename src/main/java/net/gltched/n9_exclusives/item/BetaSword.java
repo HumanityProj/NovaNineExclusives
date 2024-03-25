@@ -16,6 +16,7 @@ public class BetaSword extends ItemSword {
         super(material);
         this.setCreativeTab(NovaNineExclusives.novaNineExclusiveTab);
         this.setTextureName("n9_exclusives:betaSword");
+        this.maxStackSize = 1;
     }
 
     @Override

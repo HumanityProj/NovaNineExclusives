@@ -1,4 +1,6 @@
 item.betaSword.name=Matrix Blade
+item.gpGun.name=Galactic Patrol Gun
+item.galacticBullet.name=Galactic Bullet
 item.reapersStaff.name=Reapers Staff
 
 item.betaSword.tooltip0=§5Which §amatrix §5were we working with again?
@@ -6,6 +8,7 @@ item.betaSword.tooltip1=§r
 item.betaSword.tooltip2=§6Beta Testing Weapon
 item.reapersStaff.tooltip0=§5Welcome to the underground...
 item.reapersStaff.tooltip1=§cHow was the fall?
+item.gpGun.tooltip0=§5Unwritten Lore
 
 tile.gaslight_powered.name=Gaslight
 

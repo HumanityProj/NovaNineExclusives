@@ -16,6 +16,7 @@ public class ReapersStaff extends ItemSword {
         super(material);
         this.setCreativeTab(NovaNineExclusives.novaNineExclusiveTab);
         this.setTextureName("n9_exclusives:reapersStaff");
+        this.maxStackSize = 1;
     }
 
     @Override
